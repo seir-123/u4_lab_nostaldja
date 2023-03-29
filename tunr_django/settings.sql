@@ -1,0 +1,3 @@
+CREATE DATABASE tylersdatabase;
+CREATE USER tunruser WITH PASSWORD 'tyleruser';
+GRANT ALL PRIVILEGES ON DATABASE tunr TO tunruser;
